@@ -1,0 +1,18 @@
+{
+  "api_url": "http://localhost:8000/remessa",
+  "headers": {},
+  "columns": {
+    "nome": { "type": "string_to_int" },
+    "cpf": { "type": "cpf" },
+    "valor": { "type": "currency" },
+    "telefone": { "type": "phone" },
+    "data": { "type": "datetime", "format": "%Y-%m-%d" },
+    "email": { "type": "email" }
+  },
+  "output": {
+    "csv": true,
+    "excel": true,
+    "report": true,
+    "database": false
+  }
+}

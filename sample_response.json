@@ -1,0 +1,18 @@
+[
+  {
+    "cpf": "123.456.789-00",
+    "cod_cliente": "  ABC00123  ",
+    "email": "teste@email.com ",
+    "telefone": "(21) 99999-8888",
+    "valor": "R$ 1.500,75",
+    "data_cadastro": "15/03/2025"
+  },
+  {
+    "cpf": "000.111.222-33",
+    "cod_cliente": "000987",
+    "email": "invalido",
+    "telefone": "219888",
+    "valor": "R$ 0,00",
+    "data_cadastro": "2025-03-15"
+  }
+]
